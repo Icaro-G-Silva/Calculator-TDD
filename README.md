@@ -9,7 +9,12 @@
 ## Technical infos
 - **Programming Language**: *Kotlin*
 - **User Interface**: *no.* (CLI)
-- **Tests**: *Performed with JUnit*
+- **Tests**: *Performed with KotlinTests and MockK*
+
+## Executing the pipeline
+- **[Go to the Action](https://github.com/Icaro-G-Silva/Calculator-TDD/actions)**
+- Execute the "TestPipeline"
+- Done!
 
 ---
 
